@@ -22,7 +22,7 @@ namespace Auditing {
             Console.WriteLine ("Welcome to Auditing");
             Console.WriteLine ("Press Q key to exit");
 
-            for (;;) {
+            while (true) {
                 var consoleKeyInfo = Console.ReadKey (true);
                 if (consoleKeyInfo.Key == ConsoleKey.Q) break;
 

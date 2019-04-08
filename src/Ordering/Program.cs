@@ -30,7 +30,7 @@ namespace Ordering {
             Console.WriteLine ("Press Q key to exit");
             Console.WriteLine ("Press E key to make payment");
 
-            for (;;) {
+            while (true) {
                 var consoleKeyInfo = Console.ReadKey (true);
                 if (consoleKeyInfo.Key == ConsoleKey.Q) break;
                 if (orderRepo.GetAll ().Count > 0) {
