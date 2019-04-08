@@ -1,0 +1,49 @@
+version: '2.1'
+
+services:
+
+  basket.api:
+    image: basket/basket.api
+    build:
+      context: ./src/Basket.API
+      dockerfile: Dockerfile    
+    depends_on:
+      - redis
+        
+  ordering:
+    image: basket/ordering
+    build:
+      context: ./src/Ordering
+      dockerfile: Dockerfile
+    depends_on:
+      - rabbitmq
+        
+  payment:
+    image: basket/payment
+    build:
+      context: ./src/Payment
+      dockerfile: Dockerfile
+    depends_on:
+      - ordering
+      - rabbitmq
+
+  shop:
+    image: basket/shop
+    build:
+      context: ./src/Shop
+      dockerfile: Dockerfile    
+    depends_on:
+      - basket.api
+      - rabbitmq
+
+
+  basket.data:
+    image: redis
+    ports:
+      - "6379:6379"
+      
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "15672:15672"
+      - "5672:5672"

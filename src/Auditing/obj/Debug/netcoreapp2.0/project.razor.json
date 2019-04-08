@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Reporting/Reporting.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

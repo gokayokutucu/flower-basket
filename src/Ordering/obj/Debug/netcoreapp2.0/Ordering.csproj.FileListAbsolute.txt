@@ -1,0 +1,14 @@
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/obj/Debug/netcoreapp2.0/Ordering.csprojAssemblyReference.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/obj/Debug/netcoreapp2.0/Ordering.csproj.CoreCompileInputs.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/obj/Debug/netcoreapp2.0/Ordering.AssemblyInfoInputs.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/obj/Debug/netcoreapp2.0/Ordering.AssemblyInfo.cs
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/bin/Debug/netcoreapp2.0/Ordering.deps.json
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/bin/Debug/netcoreapp2.0/Ordering.runtimeconfig.json
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/bin/Debug/netcoreapp2.0/Ordering.runtimeconfig.dev.json
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/bin/Debug/netcoreapp2.0/Ordering.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/bin/Debug/netcoreapp2.0/Ordering.pdb
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/bin/Debug/netcoreapp2.0/Messages.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/bin/Debug/netcoreapp2.0/Messages.pdb
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/obj/Debug/netcoreapp2.0/Ordering.csproj.CopyComplete
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/obj/Debug/netcoreapp2.0/Ordering.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Ordering/obj/Debug/netcoreapp2.0/Ordering.pdb

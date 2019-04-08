@@ -1,0 +1,9 @@
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Messages/bin/Debug/netstandard2.0/Messages.deps.json
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Messages/bin/Debug/netstandard2.0/Messages.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Messages/bin/Debug/netstandard2.0/Messages.pdb
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Messages/obj/Debug/netstandard2.0/Messages.csprojAssemblyReference.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Messages/obj/Debug/netstandard2.0/Messages.csproj.CoreCompileInputs.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Messages/obj/Debug/netstandard2.0/Messages.AssemblyInfoInputs.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Messages/obj/Debug/netstandard2.0/Messages.AssemblyInfo.cs
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Messages/obj/Debug/netstandard2.0/Messages.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Messages/obj/Debug/netstandard2.0/Messages.pdb

@@ -1,0 +1,14 @@
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/bin/Debug/netcoreapp2.0/Shop.deps.json
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/bin/Debug/netcoreapp2.0/Shop.runtimeconfig.json
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/bin/Debug/netcoreapp2.0/Shop.runtimeconfig.dev.json
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/bin/Debug/netcoreapp2.0/Shop.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/bin/Debug/netcoreapp2.0/Shop.pdb
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/bin/Debug/netcoreapp2.0/Messages.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/bin/Debug/netcoreapp2.0/Messages.pdb
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/obj/Debug/netcoreapp2.0/Shop.csprojAssemblyReference.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/obj/Debug/netcoreapp2.0/Shop.csproj.CoreCompileInputs.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/obj/Debug/netcoreapp2.0/Shop.AssemblyInfoInputs.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/obj/Debug/netcoreapp2.0/Shop.AssemblyInfo.cs
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/obj/Debug/netcoreapp2.0/Shop.csproj.CopyComplete
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/obj/Debug/netcoreapp2.0/Shop.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Shop/obj/Debug/netcoreapp2.0/Shop.pdb

@@ -1,0 +1,14 @@
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/bin/Debug/netcoreapp2.0/Payments.deps.json
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/bin/Debug/netcoreapp2.0/Payments.runtimeconfig.json
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/bin/Debug/netcoreapp2.0/Payments.runtimeconfig.dev.json
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/bin/Debug/netcoreapp2.0/Payments.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/bin/Debug/netcoreapp2.0/Payments.pdb
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/bin/Debug/netcoreapp2.0/Messages.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/bin/Debug/netcoreapp2.0/Messages.pdb
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/obj/Debug/netcoreapp2.0/Payments.csprojAssemblyReference.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/obj/Debug/netcoreapp2.0/Payments.csproj.CoreCompileInputs.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/obj/Debug/netcoreapp2.0/Payments.AssemblyInfoInputs.cache
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/obj/Debug/netcoreapp2.0/Payments.AssemblyInfo.cs
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/obj/Debug/netcoreapp2.0/Payments.csproj.CopyComplete
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/obj/Debug/netcoreapp2.0/Payments.dll
+/Users/gokayokutucu/Projects/MassTransitLightningTalkMarch2018-master/src/Payments/obj/Debug/netcoreapp2.0/Payments.pdb
