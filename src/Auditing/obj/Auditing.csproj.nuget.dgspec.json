@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gokay/RiderProjects/flower-basket/src/Auditing/Auditing.csproj": {}
+  },
+  "projects": {
+    "/Users/gokay/RiderProjects/flower-basket/src/Auditing/Auditing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gokay/RiderProjects/flower-basket/src/Auditing/Auditing.csproj",
+        "projectName": "Auditing",
+        "projectPath": "/Users/gokay/RiderProjects/flower-basket/src/Auditing/Auditing.csproj",
+        "packagesPath": "/Users/gokay/.nuget/packages/",
+        "outputPath": "/Users/gokay/RiderProjects/flower-basket/src/Auditing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gokay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "/Users/gokay/RiderProjects/flower-basket/src/Domain/Domain.csproj": {
+                "projectPath": "/Users/gokay/RiderProjects/flower-basket/src/Domain/Domain.csproj"
+              },
+              "/Users/gokay/RiderProjects/flower-basket/src/Messages/Messages.csproj": {
+                "projectPath": "/Users/gokay/RiderProjects/flower-basket/src/Messages/Messages.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            },
+            "MassTransit.RabbitMq": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/gokay/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gokay/RiderProjects/flower-basket/src/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gokay/RiderProjects/flower-basket/src/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/gokay/RiderProjects/flower-basket/src/Domain/Domain.csproj",
+        "packagesPath": "/Users/gokay/.nuget/packages/",
+        "outputPath": "/Users/gokay/RiderProjects/flower-basket/src/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gokay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/gokay/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gokay/RiderProjects/flower-basket/src/Messages/Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gokay/RiderProjects/flower-basket/src/Messages/Messages.csproj",
+        "projectName": "Messages",
+        "projectPath": "/Users/gokay/RiderProjects/flower-basket/src/Messages/Messages.csproj",
+        "packagesPath": "/Users/gokay/.nuget/packages/",
+        "outputPath": "/Users/gokay/RiderProjects/flower-basket/src/Messages/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gokay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "/Users/gokay/RiderProjects/flower-basket/src/Domain/Domain.csproj": {
+                "projectPath": "/Users/gokay/RiderProjects/flower-basket/src/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/gokay/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
